@@ -1,0 +1,2 @@
+# Covid-19_prediction_and_visualization
+Covid_19_Prediction_and_Visualization_using_SVM_Bayesian_Ridge_Polynomial_Regression
